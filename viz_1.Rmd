@@ -58,3 +58,5 @@ ggplot(weather_df, aes(x = date, y = tmax, color = name, size = prcp)) +
   facet_grid( ~ name)
 ```
 
+## Univariate plots
+
